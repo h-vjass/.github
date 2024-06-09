@@ -10,13 +10,13 @@ jass runtime to add the
 framework of the author's philosophy, making the production of Warcraft 3 maps more convenient and efficient. At that
 time, the vast majority of authors are still using the T trigger to do the map, it is brave to break through the times.
 
-🌈 Using this framework , you can cover up all kinds of strange problems in the native environment , including the null
-leak problem , if you use jass to make maps , we recommend that you refer to this framework.
-
 <p align="center">
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=git,github,windows,vscode,lua,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=git,github,windows,vscode,md&theme=light" />
 </p>
+
+🌈 Using this framework , you can cover up all kinds of strange problems in the native environment , including the null
+leak problem , if you use jass to make maps , we recommend that you refer to this framework.
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
