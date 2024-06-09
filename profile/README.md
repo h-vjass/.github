@@ -1,4 +1,4 @@
-## 👋 Hello
+## 👋 Hello !
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
