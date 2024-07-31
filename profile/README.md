@@ -30,6 +30,6 @@ leak problem , if you use jass to make maps , we recommend that you refer to thi
 Thank you so much already for using my projects! 
 
 If you want to go a step further and support my open source work,
-Become my fan: <a href='https://afdian.net/a/hunzsig' target='_blank'>afdian</a>
+Become my fan: <a href='https://hunzsig.vercel.app' target='_blank'>afdian</a>
 
 Become a fan and you'll get access to more open source code and tons of resources for making projects!
